@@ -1,0 +1,5 @@
+# Spartan Client Port
+port: 3000
+
+# Encryption key
+key : key.bin
