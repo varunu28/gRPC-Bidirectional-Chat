@@ -3,5 +3,5 @@ grpcio==1.15.0
 grpcio-tools==1.15.0
 protobuf==3.6.1
 pycryptodome==3.6.6
-PyYAML==3.13
+PyYAML==5.1
 six==1.11.0
